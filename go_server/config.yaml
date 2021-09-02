@@ -1,0 +1,6 @@
+database:
+  env-name: "pgdbconnection"
+log:
+  level: "debug"
+server:
+  port: 55555
